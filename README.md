@@ -1,2 +1,3 @@
-# mentoria
-Coletânea de códigos 
+# Mentorias
+
+Notebooks usados em mentorias diversas. 
